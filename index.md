@@ -15,3 +15,6 @@ hiya -- i'm lillie, a second year computer science student
 
 ### Programming Languages
 * [pc2lua](https://github.com/lill1e/pc2lua) -- a transpiler from a Scheme-like language (written using jump statements and registers) to Lua
+
+## Blog Posts & Write-Ups
+* [Strings (PDF)](/assets/docs/strings.pdf) -- a write-up used to teach the basics of Strings in Java to an introductory Computer Science course
