@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-hiya, i'm lillie -- a second year computer science student
+hiya -- i'm lillie, a second year computer science student
 
 ## Projects
 ### FiveM/GTA V Related
