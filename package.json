@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "buld": "tsc",
-    "jekyll": "sudo docker run --volume=\"$PWD:/srv/jekyll\" -it jekyll/jekyll jekyll build"
+    "jekyll": "sudo docker run --volume=\"$PWD:/srv/jekyll\" -it jekyll/jekyll jekyll build",
+    "watch": "sudo docker run --volume=\"$PWD:/srv/jekyll\" -it jekyll/jekyll jekyll build --watch"
   },
   "keywords": [],
   "author": "",
