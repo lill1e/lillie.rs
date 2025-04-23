@@ -1,2 +1,5 @@
-_site
-.jekyll-cache
+_site/
+.jekyll-cache/
+node_modules/
+dist/
+package-lock.json
