@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "buld": "tsc",
+    "build": "tsc",
     "jekyll": "sudo docker run --volume=\"$PWD:/srv/jekyll\" -it jekyll/jekyll jekyll build",
     "watch": "sudo docker run --volume=\"$PWD:/srv/jekyll\" -it jekyll/jekyll jekyll build --watch"
   },
