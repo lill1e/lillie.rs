@@ -9,6 +9,12 @@ interface Routes {
 const routes: Routes = {}
 
 app.use("/assets", express.static("_site/assets"))
+app.use("/posts", express.static("_site/posts", {
+    extensions: ["html"]
+}))
+app.use("/collections", express.static("_site/collections", {
+    extensions: ["html"]
+}))
 
 app.get("/", (_, res) => res.sendFile(`${process.cwd()}/_site/index.html`))
 
