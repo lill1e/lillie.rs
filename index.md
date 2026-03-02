@@ -27,9 +27,9 @@ hiya -- i'm lillie, a girl that is obsessed with writing code (oh and i love cat
 * [Sheap](https://github.com/lill1e/Sheap) -- a FiveM queue implementation using a Heap
 * [Spectrum](https://github.com/lill1e/Spectrum) -- a FiveM economy framework built from scratch
 
-## Blog Posts & Write-Ups
-* [Strings (PDF)](/assets/docs/strings.pdf) -- a write-up used to teach the basics of Strings in Java to an introductory Computer Science course
-
 ### Web Design Projects
 * [Project 1 - Recipe](/posts/anginettis)
 * [Project 2 - Quote](/posts/iubb)
+
+## Blog Posts & Write-Ups
+* [Strings (PDF)](/assets/docs/strings.pdf) -- a write-up used to teach the basics of Strings in Java to an introductory Computer Science course
