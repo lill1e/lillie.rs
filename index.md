@@ -29,8 +29,8 @@ hiya -- i'm lillie, a girl that is obsessed with writing code (oh and i love cat
 * [Spectrum](https://github.com/lill1e/Spectrum) -- a FiveM economy framework built from scratch
 
 ### Web Design Projects
-* [Project 1 - Recipe](/posts/anginettis)
-* [Project 2 - Quote](/posts/iubb)
+* [Project 1](/posts/anginettis) -- Recipe
+* [Project 2](/posts/iubb) -- Quote
 
 ## Blog Posts & Write-Ups
 * [Strings (PDF)](/assets/docs/strings.pdf) -- a write-up used to teach the basics of Strings in Java to an introductory Computer Science course
