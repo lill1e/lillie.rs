@@ -29,3 +29,7 @@ hiya -- i'm lillie, a girl that is obsessed with writing code (oh and i love cat
 
 ## Blog Posts & Write-Ups
 * [Strings (PDF)](/assets/docs/strings.pdf) -- a write-up used to teach the basics of Strings in Java to an introductory Computer Science course
+
+### Web Design Projects
+* [Project 1 - Recipe](/posts/anginettis)
+* [Project 2 - Quote](/posts/iubb)
