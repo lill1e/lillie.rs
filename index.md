@@ -22,6 +22,8 @@ hiya -- i'm lillie, a girl that is obsessed with writing code (oh and i love cat
 * [pc2lua](https://github.com/lill1e/pc2lua) -- a transpiler from a Scheme-like language (written using jump statements and registers) to Lua
 * [Ramp](https://github.com/lill1e/Ramp) -- a programming language parser written in Racket, to be used in my Compilers Course
 * [formal](https://github.com/lill1e/formal) -- a compiler from a minimal language written to Rust using Memory Addresses
+* [lcar](https://github.com/lill1e/lcar) -- an implementation of the Lambda Calculus that is statically typed, written in Rust
+* [timeline](https://github.com/lill1e/timeline) -- a statically typed implementation of Lua in Rust
 
 ### FiveM/GTA V Related
 * [pgcfx](https://github.com/lill1e/pgcfx) -- a PostrgreSQL wrapper for FiveM using exports
