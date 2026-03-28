@@ -8,11 +8,11 @@ hiya -- i'm lillie, a girl that is obsessed with writing code (oh and i love cat
 
 ## Experience
 * Undergraduate Instructor
-	* Computer Science Intro (Java) -- (FA24, SP25, FA25, FA26)
+	* Computer Science Intro (Java) -- (FA24, SP25, FA25, SP26)
 	* Data Structures -- (SP25)
-	* Computer Systems (Low Level Programming) -- (FA25)
-* Computer Science Tutor -- SP24, FA24, SP25, FA25
-	* Lead Tutor (FA25)
+	* Computer Systems (Low Level Programming) -- (SP26)
+* Computer Science Tutor -- SP24, FA24, SP25, FA25, SP26
+	* Lead Tutor (FA25, SP26)
 
 ## Projects
 ### Software & Services
