@@ -3,6 +3,8 @@ layout: home
 ---
 hiya -- i'm lillie, a girl that is obsessed with writing code (oh and i love cats as well)
 
+## Featured Project
+[scores98](https://scores.lillie.rs) -- an interactive website with a unique design, for tracking live sports
 
 ## Experience
 * Undergraduate Instructor
